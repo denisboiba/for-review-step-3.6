@@ -1,0 +1,65 @@
+1658752019142	geckodriver	INFO	Listening on 127.0.0.1:50121
+1658752294622	geckodriver	INFO	Listening on 127.0.0.1:50209
+1658752424529	geckodriver	INFO	Listening on 127.0.0.1:50252
+1658752450269	geckodriver	INFO	Listening on 127.0.0.1:50273
+1658752956649	geckodriver	INFO	Listening on 127.0.0.1:50493
+1658753072432	geckodriver	INFO	Listening on 127.0.0.1:50524
+1658753362405	geckodriver	INFO	Listening on 127.0.0.1:50592
+1658753595844	geckodriver	INFO	Listening on 127.0.0.1:50626
+1658753632565	geckodriver	INFO	Listening on 127.0.0.1:50633
+1658754401146	geckodriver	INFO	Listening on 127.0.0.1:50763
+1658754532072	geckodriver	INFO	Listening on 127.0.0.1:50772
+1658754945289	geckodriver	INFO	Listening on 127.0.0.1:50945
+1658754948373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VD\\AppData\\Local\\Temp\\rust_mozprofileG8ov54"
+1658754949023	Marionette	INFO	Marionette enabled
+1658754949031	Marionette	INFO	Listening on port 50955
+WebDriver BiDi listening on ws://localhost:50946
+Read port: 50955
+1658754949224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VD\\AppData\\Local\\Temp\\rust_mozprofileG8ov54\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50946/devtools/browser/17b82b70-4b79-4868-86b2-bcd172cb609c
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1658158331, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1658158331, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658755173255	Marionette	INFO	Stopped listening on port 50955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VD\\AppData\\Local\\Temp\\rust_mozprofiles8NFO5"
+1658755025825	Marionette	INFO	Marionette enabled
+1658755025833	Marionette	INFO	Listening on port 51065
+WebDriver BiDi listening on ws://localhost:51055
+Read port: 51065
+1658755026015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VD\\AppData\\Local\\Temp\\rust_mozprofiles8NFO5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51055/devtools/browser/15019ee2-a448-4905-aadb-90a5bcffbe63
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1658158331, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1658158331, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658755044263	Marionette	INFO	Stopped listening on port 51065
+!!! error running onStopped callback: TypeError: callback is not a function
+1658755177606	geckodriver	INFO	Listening on 127.0.0.1:51175
+1658755180651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VD\\AppData\\Local\\Temp\\rust_mozprofileaQcHyY"
+1658755181139	Marionette	INFO	Marionette enabled
+1658755181146	Marionette	INFO	Listening on port 51186
+WebDriver BiDi listening on ws://localhost:51176
+Read port: 51186
+1658755181319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VD\\AppData\\Local\\Temp\\rust_mozprofileaQcHyY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51176/devtools/browser/c31cc211-266d-413a-809c-e3dfa36f0513
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1658158331, line 6289: unreachable code after return statement
+1658755186227	Marionette	INFO	Stopped listening on port 51186
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\VD\AppData\Local\Temp\rust_mozprofileaQcHyY\protections.sqlite
+1658763391309	geckodriver	INFO	Listening on 127.0.0.1:51718
+1658763394337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\VD\\AppData\\Local\\Temp\\rust_mozprofile4aihxc"
+1658763395109	Marionette	INFO	Marionette enabled
+1658763395117	Marionette	INFO	Listening on port 51728
+WebDriver BiDi listening on ws://localhost:51719
+Read port: 51728
+1658763395325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\VD\\AppData\\Local\\Temp\\rust_mozprofile4aihxc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51719/devtools/browser/2a7066dc-9f3d-4083-9bb9-fd334219029d
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1658158331, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1658158331, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1658763406380	Marionette	INFO	Stopped listening on port 51728
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
